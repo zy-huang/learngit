@@ -5,4 +5,8 @@ where is the program
 you are stubborn
 happy birthday
 switching to a new branch is quick
+<<<<<<< HEAD
 good job to you
+=======
+good job for you
+>>>>>>> feature
