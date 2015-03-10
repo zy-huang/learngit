@@ -7,3 +7,4 @@ happy birthday
 switching to a new branch is quick
 are you ready
 no
+happy new year
